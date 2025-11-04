@@ -1,2 +1,1 @@
-# helm
-This repo was created by Terraform
+# My GitHub Repository
